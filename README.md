@@ -32,4 +32,5 @@ Green computing, also known as sustainable computing, is the practice of using c
 ### Conclusion
 Green computing is not just about using fewer resources—it's about a holistic approach that includes energy-efficient design, responsible resource use, and sustainable practices throughout the lifecycle of technology products. By adopting green computing principles, individuals and organizations can contribute to a more sustainable future while still benefiting from the advancements in technology.
 
-
+### Here is an image of green computing in IT sector:
+https://github.com/Aravind724/Green_computing/blob/d067836cb79307e094f09f9e587392faf8639961/Green_computing.jpeg
